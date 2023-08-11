@@ -2,19 +2,22 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to another page](./another-page.html).
 
 [Link to base page](./another-index.html).
 
-There should be whitespace between paragraphs.
+A continuación, una muestra de los proyectos realizados:
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Pandaligonal
+> Realizado en colaboración con JPI Ingeniería e Innovación S.A.C.
+> 
+> [Link JPI - Herramientas GUI](https://jpi-ingenieria.com/herramientas_gui.html).
 
-# Header 1
+Es una aplicación de escritorio que permite el procesamiento de datos de un levantamiento topográfico realizado por el método de radiación y devuelve las coordenadas finales de los puntos como respuesta, entre otros archivos útiles como un reporte en formato .xlsx y un archivo .scr para el trazo en softwares CAD.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Programada en lenguaje Python, hace uso de programación orientada a objetos y uso de bibliotecas GUI como PyQt5 y PySide2.
+
+
 
 ## Header 2
 
