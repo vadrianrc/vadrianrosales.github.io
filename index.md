@@ -17,7 +17,7 @@ Es una aplicación de escritorio que permite el procesamiento de datos de un lev
 
 Programada en lenguaje Python, hace uso de programación orientada a objetos y uso de bibliotecas GUI como PyQt5 y PySide2.
 
-![img](https://github.com/vadrianrc/vadrianrc.github.io/blob/main/assets/img/pandaligonal-parts.jpg)
+![img](/vadrianrc.github.io/assets/img/pandaligonal-parts.jpg)
 
 ## Header 2
 
