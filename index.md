@@ -17,10 +17,13 @@ Es una aplicación de escritorio que permite el procesamiento de datos de un lev
 
 Programada en lenguaje Python, hace uso de programación orientada a objetos y uso de bibliotecas GUI como PyQt5 y PySide2.
 > Partes del programa
+
 ![img1](/assets/img/pandaligonal-parts.jpg)
 
 > Reporte
+
 ![img2](/assets/img/report.jpg)
+
 ## Header 2
 
 > This is a blockquote following a header.
