@@ -20,6 +20,7 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 ![img1](/assets/img/pandaligonal-parts.jpg)
 
 > Reporte
+![img2](/assets/img/report.jpg)
 ## Header 2
 
 > This is a blockquote following a header.
