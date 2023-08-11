@@ -9,7 +9,7 @@ layout: default
 A continuación, una muestra de los proyectos realizados:
 
 # Pandaligonal
-> Realizado en colaboración con JPI Ingeniería e Innovación S.A.C.
+> Realizado en colaboración con **JPI Ingeniería e Innovación S.A.C.** como proyecto final del curso **Desarrollando Herramientas GUI en Python**.
 > 
 > [Link JPI - Herramientas GUI](https://jpi-ingenieria.com/herramientas_gui.html).
 
