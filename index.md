@@ -16,11 +16,11 @@ A continuación, una muestra de los proyectos realizados:
 Es una aplicación de escritorio que permite el procesamiento de datos de un levantamiento topográfico realizado por el método de radiación y devuelve las coordenadas finales de los puntos como respuesta, entre otros archivos útiles como un reporte en formato .xlsx y un archivo .scr para el trazo en softwares CAD.
 
 Programada en lenguaje Python, hace uso de programación orientada a objetos y uso de bibliotecas GUI como PyQt5 y PySide2.
-> Partes del programa
+### Partes del programa
 
 ![img1](/assets/img/pandaligonal-parts.jpg)
 
-> Reporte
+### Reporte
 
 ![img2](/assets/img/report.jpg)
 
