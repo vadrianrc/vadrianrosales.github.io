@@ -30,7 +30,7 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 # Ferrocarril Central Trasandino
 ### Informe de investigación
 
-> Realizado de manera grupal colaborativa como proyecto final del curso **Redacción y Comunicación**.
+> Realizado de manera grupal colaborativa como proyecto final del curso **Redacción y Comunicación** durante el primer ciclo en la facultad de Ingeniería Civil de la **Universidad Nacional de Ingeniería**.
 
 
 > Compañeros de investigación: <br>
@@ -40,9 +40,11 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 # Gran Terremoto del Este de Japón 2011
 ### Informe de investigación
 
-> Realizado en colaboración con **JPI Ingeniería e Innovación S.A.C.** como proyecto final del curso **Desarrollando Herramientas GUI en Python**.
-> 
-> [Link JPI - Herramientas GUI](https://jpi-ingenieria.com/herramientas_gui.html)
+> Realizado de manera grupal colaborativa como proyecto final del curso **Dinámica** durante el cuarto ciclo en la facultad de Ingeniería Civil de la **Universidad Nacional de Ingeniería**.
+
+
+> Compañeros de investigación: <br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**danira.fabian.m@uni.pe **
 
 ### Header 3
 
