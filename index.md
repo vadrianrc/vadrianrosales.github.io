@@ -9,6 +9,7 @@ layout: default
 A continuación, una muestra de los proyectos realizados:
 
 # Pandaligonal
+### Aplicación de Escritorio
 > Realizado en colaboración con **JPI Ingeniería e Innovación S.A.C.** como proyecto final del curso **Desarrollando Herramientas GUI en Python**.
 > 
 > [Link JPI - Herramientas GUI](https://jpi-ingenieria.com/herramientas_gui.html)
@@ -29,13 +30,19 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 # Ferrocarril Central Trasandino
 ### Informe de investigación
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Realizado de manera grupal colaborativa como proyecto final del curso **Redacción y Comunicación**.
 
+
+> Compañeros de investigación
+> christian.delacruz.a@uni.pe
+> edison.paredes.b@uni.pe
 
 # Gran Terremoto del Este de Japón 2011
 ### Informe de investigación
+
+> Realizado en colaboración con **JPI Ingeniería e Innovación S.A.C.** como proyecto final del curso **Desarrollando Herramientas GUI en Python**.
+> 
+> [Link JPI - Herramientas GUI](https://jpi-ingenieria.com/herramientas_gui.html)
 
 ### Header 3
 
