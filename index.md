@@ -33,9 +33,9 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 > Realizado de manera grupal colaborativa como proyecto final del curso **Redacción y Comunicación**.
 
 
-> Compañeros de investigación
-> christian.delacruz.a@uni.pe
-> edison.paredes.b@uni.pe
+> Compañeros de investigación: <br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**christian.delacruz.a@uni.pe**<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**edison.paredes.b@uni.pe**
 
 # Gran Terremoto del Este de Japón 2011
 ### Informe de investigación
