@@ -37,6 +37,8 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**christian.delacruz.a@uni.pe**<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**edison.paredes.b@uni.pe**
 
+* * *
+
 # Gran Terremoto del Este de Japón 2011
 ### Informe de investigación
 
@@ -46,7 +48,21 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 > Compañeros de investigación: <br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**danira.fabian.m@uni.pe**
 
-### Header 3
+* * *
+
+# Línea 1 del Metro de Lima
+### Infografía IGA's Tramitados
+
+> Realizado como parte del curso **Evaluación de Impacto Ambiental** durante el séptimo ciclo en la facultad de Ingeniería Civil de la **Universidad Nacional de Ingeniería**.
+
+* * *
+
+# Análisis Modal Espectral
+### Hoja de Cálculo MathCad
+
+> Realizado como parte del curso **Ingeniería Sismorresistente y Prevención de Desastres** durante el octavo ciclo en la facultad de Ingeniería Civil de la **Universidad Nacional de Ingeniería**.
+
+* * *
 
 ```js
 // Javascript code with syntax highlighting.
