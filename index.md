@@ -44,7 +44,7 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 
 
 > Compañeros de investigación: <br>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**danira.fabian.m@uni.pe **
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**danira.fabian.m@uni.pe**
 
 ### Header 3
 
