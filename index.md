@@ -24,11 +24,18 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 
 ![img2](/assets/img/report.jpg)
 
-## Header 2
+* * *
+
+# Ferrocarril Central Trasandino
+### Informe de investigación
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
+
+
+# Gran Terremoto del Este de Japón 2011
+### Informe de investigación
 
 ### Header 3
 
