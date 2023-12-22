@@ -6,6 +6,8 @@ layout: default
 
 A continuación, una muestra de los proyectos realizados:
 
+***
+
 # Pandaligonal
 ### Aplicación de Escritorio
 > Realizado en colaboración con **JPI Ingeniería e Innovación S.A.C.** como proyecto final del curso **Desarrollando Herramientas GUI en Python**.
@@ -35,7 +37,7 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**christian.delacruz.a@uni.pe**<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**edison.paredes.b@uni.pe**
 
-[Descargar archivo PDF](/assets/files/Ferrocarril-DLC-PB-RC.pdf)
+[Ver archivo PDF](/assets/files/Ferrocarril-DLC-PB-RC.pdf)
 
 * * *
 
@@ -48,12 +50,16 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 > Compañeros de investigación: <br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**danira.fabian.m@uni.pe**
 
+[Ver archivo PDF](/assets/files/Tohoku-Fabian-Rosales.pdf)
+
 * * *
 
 # Línea 1 del Metro de Lima
 ### Infografía IGA's Tramitados
 
 > Realizado como parte del curso **Evaluación de Impacto Ambiental** durante el séptimo ciclo en la facultad de Ingeniería Civil de la **Universidad Nacional de Ingeniería**.
+
+[Ver archivo PDF](/assets/files/L1-Infografia.pdf)
 
 * * *
 
@@ -62,104 +68,9 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 
 > Realizado como parte del curso **Ingeniería Sismorresistente y Prevención de Desastres** durante el octavo ciclo en la facultad de Ingeniería Civil de la **Universidad Nacional de Ingeniería**.
 
-* * *
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+[Descargar ejemplo 1 (.mcdx)](/assets/files/Analisis-Modal-Aporticado.mcdx)
+[Descargar ejemplo 2 (.mcdx)](/assets/files/Analisis-Modal-Muros.mcdx)
 
 * * *
 
-### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
