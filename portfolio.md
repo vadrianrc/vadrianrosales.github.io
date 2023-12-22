@@ -83,6 +83,10 @@ Ilustración visual de los distintos Instrumentos de Gestión Ambiental (IGA) tr
 > Realizado como parte del curso **Ingeniería Sismorresistente y Prevención de Desastres** durante el octavo ciclo en la facultad de Ingeniería Civil de la **Universidad Nacional de Ingeniería**.
 
 Material de soporte elaborado de forma individual para agilizar los cálculos requeridos en el proyecto escalonado del curso. Abarca el análisis modal y verificación de distorsiones de una edificación de 6 pisos. Estructura la cual tuvo que ser reforzada para cumplir con los requerimientos de la norma E.030 Diseño Sismorresistente; motivo por el cual se realizó un cálculo para la estructura en un sistema aporticado y otro cálculo para la estructura con los muros de concreto implementados para incrementar la rigidez. Para la elaboración de estas hojas de cálculo se empleó el software PTC Mathcad y sus distintas capacidades, como las funciones, gráficas y cálculos matriciales; además de la implementación de programación cuando era requerida.
+### Cálculo de modos de vibración
+![img1](/assets/img/img_sismo_1.jpg)
+### Verificación con E.030 Diseño Sismorresistente
+![img1](/assets/img/img_sismo_2.jpg)
 
 [Descargar ejemplo 1 (.mcdx)](/assets/files/Analisis-Modal-Aporticado.mcdx) <br>
 [Descargar ejemplo 2 (.mcdx)](/assets/files/Analisis-Modal-Muros.mcdx)
