@@ -63,6 +63,12 @@ Trabajo de investigación formativo sobre el gran terremoto del este de Japón o
 
 Ilustración visual de los distintos Instrumentos de Gestión Ambiental (IGA) tramitados durante la construcción del proyecto Línea 1 del Metro de Lima. Este material visual forma parte de un proyecto escalonado realizado durante todo el ciclo académico correspondiente, en el cual se realiza un trabajo recopilatorio de información y análisis sobre el proceso constructivo, aspectos sociales, aspectos ambientales, aspectos económicos y el desarrollo del proyecto en el tiempo refiríendonos a la Línea 1 del Metro de Lima en los dos tramos que la componen. Para el desarrollo del proyecto se emplearon diversas metodologías de trabajo en conjunto, como el uso de la plataforma Trello, Notion y Canva. Esta última resalta al ser el lienzo sobre el cual se elaboró la infografía en cuestión.
 
+> Compañeros de investigación: <br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**danira.fabian.m@uni.pe**<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ximena.cartolin.y@uni.pe**<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**christian.ruiz.c@uni.pe**<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**frank.ramirez.l@uni.pe**
+
 [Ver archivo PDF](/assets/files/L1-Infografia.pdf)
 
 * * *
