@@ -65,7 +65,7 @@ Ilustración visual de los distintos Instrumentos de Gestión Ambiental (IGA) tr
 
 ### Video de la presentación
 <iframe src="https://drive.google.com/file/d/1JVPAJoGxBH6tSVPwmu5hBeJNe98sD7J2/preview" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
-
+<br>
 
 > Compañeros de investigación: <br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**danira.fabian.m@uni.pe**<br>
@@ -87,7 +87,7 @@ Material de soporte elaborado de forma individual para agilizar los cálculos re
 ![img1](/assets/img/img_sismo_1.jpg)
 ### Verificación con E.030 Diseño Sismorresistente
 ![img1](/assets/img/img_sismo_2.jpg)
-
+<br>
 [Descargar ejemplo 1 (.mcdx)](/assets/files/Analisis-Modal-Aporticado.mcdx) <br>
 [Descargar ejemplo 2 (.mcdx)](/assets/files/Analisis-Modal-Muros.mcdx)
 
