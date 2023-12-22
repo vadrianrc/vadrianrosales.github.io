@@ -49,6 +49,11 @@ Uno de los primeros trabajos monográficos realizados en la carrera, realizado b
 
 Trabajo de investigación formativo sobre el gran terremoto del este de Japón ocurrido el 11 de marzo del 2011, y su consecuente tsunami. En la elaboración de este trabajo monográfico se empleó amplia bibliografía tanto en español, inglés y japonés (lenguaje desde el cual se tuvo que traducir la información), proveniente del Earthquake Engineering Research Institute (EERI). Este trabajo resalta en ser uno de los primeros en lo que se consultó tan amplia bibliografía proveniente de artículos científicos y reportes de campo, además de poner en práctica las habilidades de compresión lectora en idioma inglés y el manejo de un idioma tan ajeno en occidente como lo es el japonés.
 
+### Acelerogramas y sus registros
+![img1](/assets/img/img_toho2.png)
+### Daños en líneas vitales
+![img2](/assets/img/img_toho3.png)
+
 > Compañeros de investigación: <br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**danira.fabian.m@uni.pe**
 
