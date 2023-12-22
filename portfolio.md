@@ -66,7 +66,6 @@ Ilustración visual de los distintos Instrumentos de Gestión Ambiental (IGA) tr
 ### Video de la presentación
 <iframe src="https://drive.google.com/file/d/1JVPAJoGxBH6tSVPwmu5hBeJNe98sD7J2/preview" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
 <br>
-
 > Compañeros de investigación: <br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**danira.fabian.m@uni.pe**<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ximena.cartolin.y@uni.pe**<br>
