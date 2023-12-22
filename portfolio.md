@@ -2,6 +2,9 @@
 layout: default
 ---
 
+<center><span style="font-size: 40px; color: #000080;"><b>PORTAFOLIO</b></span></center>
+<center><span style="font-size: 20px;"><b>PROYECTOS ACADÉMICOS</b></span></center>
+
 [Link to base page](./index.html).
 
 A continuación, una muestra de los proyectos realizados:
