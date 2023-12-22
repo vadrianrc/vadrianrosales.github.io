@@ -1,10 +1,10 @@
 title: <center><b>Victor Rosales</b></center>
 
-logo: /assets/img/ferr1.png
+logo: /assets/img/photo_github.png
 
-description: <p align="justify">Estudiante de décimo ciclo de Ingeniería Civil en la Universidad Nacional de Ingeniería con estudios enfocados en la rama de estructuras.<br></p>
+description: <p align="justify">Estudiante de décimo ciclo de Ingeniería Civil en la Universidad Nacional de Ingeniería con estudios enfocados en la rama de estructuras.<br></p> <a href="assets/files/L1-Infografia.pdf">Resume</a> | <a href="https://www.linkedin.com/in/vadrianrc/">LinkedIn</a> | <a href="https://github.com/vadrianrc">GitHub</a>
 
-show_downloads: True
+show_downloads: False
 
 theme: jekyll-theme-minimal
 
