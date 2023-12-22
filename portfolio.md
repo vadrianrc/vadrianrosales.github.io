@@ -69,6 +69,7 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 > Realizado como parte del curso **Ingeniería Sismorresistente y Prevención de Desastres** durante el octavo ciclo en la facultad de Ingeniería Civil de la **Universidad Nacional de Ingeniería**.
 
 [Descargar ejemplo 1 (.mcdx)](/assets/files/Analisis-Modal-Aporticado.mcdx)
+
 [Descargar ejemplo 2 (.mcdx)](/assets/files/Analisis-Modal-Muros.mcdx)
 
 * * *
