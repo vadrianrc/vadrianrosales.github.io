@@ -32,6 +32,7 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 
 > Realizado de manera grupal colaborativa como proyecto final del curso **Redacción y Comunicación** durante el primer ciclo en la facultad de Ingeniería Civil de la **Universidad Nacional de Ingeniería**.
 
+Uno de los primeros trabajos monográficos realizados en la carrera, realizado bajo el marco del realce del bicentenario del nacimiento del ingeniero polaco Ernest Malinowski (1818-1899). Empleó como fuente bibliográfica principal el informe del ingeniero en jefe de la construcción del Ferrocarril Central Trasandino, escrito por el mismo ing. Malinowski; se apoya en el libro Malinowski El ingeniero de los ferrocarriles, escrito por el historiador José López Soria, publicación de la editorial EDUNI en la colección Bicentenario de la República.
 
 > Compañeros de investigación: <br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**christian.delacruz.a@uni.pe**<br>
@@ -46,6 +47,7 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 
 > Realizado de manera grupal colaborativa como proyecto final del curso **Dinámica** durante el cuarto ciclo en la facultad de Ingeniería Civil de la **Universidad Nacional de Ingeniería**.
 
+Trabajo de investigación formativo sobre el gran terremoto del este de Japón ocurrido el 11 de marzo del 2011, y su consecuente tsunami. En la elaboración de este trabajo monográfico se empleó amplia bibliografía tanto en español, inglés y japonés (lenguaje desde el cual se tuvo que traducir la información), proveniente del Earthquake Engineering Research Institute (EERI). Este trabajo resalta en ser uno de los primeros en lo que se consultó tan amplia bibliografía proveniente de artículos científicos y reportes de campo, además de poner en práctica las habilidades de compresión lectora en idioma inglés y el manejo de un idioma tan ajeno en occidente como lo es el japonés.
 
 > Compañeros de investigación: <br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**danira.fabian.m@uni.pe**
@@ -59,6 +61,8 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 
 > Realizado como parte del curso **Evaluación de Impacto Ambiental** durante el séptimo ciclo en la facultad de Ingeniería Civil de la **Universidad Nacional de Ingeniería**.
 
+Ilustración visual de los distintos Instrumentos de Gestión Ambiental (IGA) tramitados durante la construcción del proyecto Línea 1 del Metro de Lima. Este material visual forma parte de un proyecto escalonado realizado durante todo el ciclo académico correspondiente, en el cual se realiza un trabajo recopilatorio de información y análisis sobre el proceso constructivo, aspectos sociales, aspectos ambientales, aspectos económicos y el desarrollo del proyecto en el tiempo refiríendonos a la Línea 1 del Metro de Lima en los dos tramos que la componen. Para el desarrollo del proyecto se emplearon diversas metodologías de trabajo en conjunto, como el uso de la plataforma Trello, Notion y Canva. Esta última resalta al ser el lienzo sobre el cual se elaboró la infografía en cuestión.
+
 [Ver archivo PDF](/assets/files/L1-Infografia.pdf)
 
 * * *
@@ -67,6 +71,8 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 ### Hoja de Cálculo MathCad
 
 > Realizado como parte del curso **Ingeniería Sismorresistente y Prevención de Desastres** durante el octavo ciclo en la facultad de Ingeniería Civil de la **Universidad Nacional de Ingeniería**.
+
+Material de soporte elaborado de forma individual para agilizar los cálculos requeridos en el proyecto escalonado del curso. Abarca el análisis modal y verificación de distorsiones de una edificación de 6 pisos. Estructura la cual tuvo que ser reforzada para cumplir con los requerimientos de la norma E.030 Diseño Sismorresistente; motivo por el cual se realizó un cálculo para la estructura en un sistema aporticado y otro cálculo para la estructura con los muros de concreto implementados para incrementar la rigidez. Para la elaboración de estas hojas de cálculo se empleó el software PTC Mathcad y sus distintas capacidades, como las funciones, gráficas y cálculos matriciales; además de la implementación de programación cuando era requerida.
 
 [Descargar ejemplo 1 (.mcdx)](/assets/files/Analisis-Modal-Aporticado.mcdx) <br>
 [Descargar ejemplo 2 (.mcdx)](/assets/files/Analisis-Modal-Muros.mcdx)
