@@ -34,6 +34,11 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 
 Uno de los primeros trabajos monográficos realizados en la carrera, realizado bajo el marco del realce del bicentenario del nacimiento del ingeniero polaco Ernest Malinowski (1818-1899). Empleó como fuente bibliográfica principal el informe del ingeniero en jefe de la construcción del Ferrocarril Central Trasandino, escrito por el mismo ing. Malinowski; se apoya en el libro Malinowski El ingeniero de los ferrocarriles, escrito por el historiador José López Soria, publicación de la editorial EDUNI en la colección Bicentenario de la República.
 
+### Informe escrito por el ing. Malinowski
+![img1](/assets/img/ferr1.png)
+### Mural conmemorativo
+![img2](/assets/img/ferr2.png)
+
 > Compañeros de investigación: <br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**christian.delacruz.a@uni.pe**<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**edison.paredes.b@uni.pe**
