@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<span style="color:#2c76e1; font-size: 40px;"><center><b>PORTAFOLIO</b></center></span>
+<center><span style="font-size: 40px; color: #000080;"><b>PORTAFOLIO</b></span></center>
 <center><span style="font-size: 20px;"><b>PROYECTOS ACADÉMICOS</b></span></center><br>
 
 ***
