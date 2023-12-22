@@ -88,7 +88,9 @@ Material de soporte elaborado de forma individual para agilizar los cálculos re
 ![img1](/assets/img/img_sismo_2.jpg)
 <br>
 [Descargar ejemplo 1 (.mcdx)](/assets/files/Analisis-Modal-Aporticado.mcdx) <br>
-[Descargar ejemplo 2 (.mcdx)](/assets/files/Analisis-Modal-Muros.mcdx)
+[Ver archivo PDF](/assets/files/Analisis_Modal_Aporticado.pdf) <br>
+[Descargar ejemplo 2 (.mcdx)](/assets/files/Analisis-Modal-Muros.mcdx) <br>
+[Ver archivo PDF](/assets/files/Analisis_Modal_Muros.pdf)
 
 * * *
 
