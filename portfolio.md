@@ -35,6 +35,8 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**christian.delacruz.a@uni.pe**<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**edison.paredes.b@uni.pe**
 
+[Descargar archivo PDF](/assets/files/Ferrocarril-DLC-PB-RC.pdf)
+
 * * *
 
 # Gran Terremoto del Este de Japón 2011
