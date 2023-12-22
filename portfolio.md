@@ -2,8 +2,9 @@
 layout: default
 ---
 
-<center><p style="color:#2c76e1";><b>PORTAFOLIO</b></p></center>
+<p style="color:#2c76e1; font-size: 40px"><center><b>PORTAFOLIO</b></center></p>
 <center><span style="font-size: 20px;"><b>PROYECTOS ACADÉMICOS</b></span></center><br>
+
 ***
 
 [Link to base page](./index.html).
