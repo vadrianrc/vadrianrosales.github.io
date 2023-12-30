@@ -7,7 +7,7 @@ layout: default
 
 ***
 
-[Regresar al inicio](./index.html)
+[Regresar al portafolio](./)
 
 ***
 
