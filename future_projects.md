@@ -18,6 +18,8 @@ A continuación, los proyectos en curso y el acceso a la crónica:
 # Tipo de cambio
 ### Aplicación en Python
 
+[Ver más información](./complex_projects/exchange_pro.html)
+
 ***
 
 # Países del mundo
