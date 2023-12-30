@@ -9,6 +9,8 @@ layout: default
 
 [Regresar al inicio](./index.html)
 
+[Futuras entradas](./future_projects.html)
+
 En esta sección se encuentran alojados algunos de los proyectos realizados durante los semestres académicos en la Universidad Nacional de Ingeniería. Se brinda una breve descripción de cada uno de ellos, así como se mencionan las competencias que fueron necesarias para la elaboración de estos. Al término de cada inciso, se puede encontrar el archivo para descargar el contenido, así como el contacto de los integrantes del equipo de trabajo, cuando aplique.
 
 A continuación, una muestra de los proyectos realizados:
