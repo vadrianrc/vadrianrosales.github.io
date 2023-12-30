@@ -14,3 +14,15 @@ Aquí se alojan algunas ideas para futuros proyectos. Las entradas serán consta
 A continuación, los proyectos en curso y el acceso a la crónica:
 
 ***
+
+# Tipo de cambio
+### Aplicación en Python
+
+
+# Países del mundo
+### Reporte con Python
+
+
+# Vivienda unifamiliar en Cusco
+### Proyecto estructural
+
