@@ -29,7 +29,7 @@ Elaborado como material didáctico para representar el proceso constructivo de u
 ### Tuberías modeladas
 ![img1](./assets/tuberias.jpg)
 <br>
-[Descargar modelo (.skp)](./assets/Reservorio_Apoyado_Proyectado.skp)
+[Descargar modelo (.skp)](https://drive.google.com/file/d/16c-r-oJR_xGFfoNYZFURUkzzAMC0BUdY/view?usp=sharing)
 
 ***
 
