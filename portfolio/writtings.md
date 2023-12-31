@@ -7,7 +7,7 @@ layout: default
 
 ***
 
-[Regresar al inicio](../portfolio.html) 
+[Regresar al portafolio](../portfolio.html) 
 
 Aquí se presentan unas muestras de trabajos de redacción realizados durante los semestres académicos en la Universidad Nacional de Ingeniería. Se resalta el avance en el empleo de referencias, redacción, empleo de plantillas y otras plataformas para la elaboración de material visual.
 

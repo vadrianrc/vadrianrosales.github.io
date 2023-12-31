@@ -3,11 +3,11 @@ layout: default
 ---
 
 <center><span style="font-size: 40px; color: #000080;"><b>PORTAFOLIO</b></span></center>
-<center><span style="font-size: 20px;"><b>REDACCIÓN</b></span></center><br>
+<center><span style="font-size: 20px;"><b>MODELAMIENTO</b></span></center><br>
 
 ***
 
-[Regresar al inicio](./index.html) 
+[Regresar al portafolio](./index.html) 
 
 
 En esta sección se encuentran alojados algunos de los proyectos realizados durante los semestres académicos en la Universidad Nacional de Ingeniería. Se brinda una breve descripción de cada uno de ellos, así como se mencionan las competencias que fueron necesarias para la elaboración de estos. Al término de cada inciso, se puede encontrar el archivo para descargar el contenido, así como el contacto de los integrantes del equipo de trabajo, cuando aplique.
