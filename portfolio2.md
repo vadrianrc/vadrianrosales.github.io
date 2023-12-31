@@ -3,18 +3,45 @@ layout: default
 ---
 
 <center><span style="font-size: 40px; color: #000080;"><b>PORTAFOLIO</b></span></center>
-<center><span style="font-size: 20px;"><b>REDACCIÓN</b></span></center><br>
+<center><span style="font-size: 20px;"><b>PROYECTOS DESTACADOS</b></span></center><br>
 
 ***
 
-[Regresar al portafolio](../portfolio.html) 
+[Regresar al inicio](./index.html) 
 
-Aquí se presentan unas muestras de trabajos de redacción realizados durante los semestres académicos en la Universidad Nacional de Ingeniería. Se resalta el avance en el empleo de referencias, redacción, empleo de plantillas y otras plataformas para la elaboración de material visual. Al término de cada inciso, se puede encontrar el archivo para descargar el contenido, así como el contacto de los integrantes del equipo de trabajo, cuando aplique.
+En esta sección se encuentran alojados algunos de los proyectos más destacados realizados durante los semestres académicos en la Universidad Nacional de Ingeniería y por iniciativa propia. Se brinda una breve descripción de cada uno de ellos, así como se mencionan las competencias que fueron necesarias para la elaboración de estos. Al término de cada inciso, se puede encontrar el archivo para descargar el contenido, así como el contacto de los integrantes del equipo de trabajo, cuando aplique.
 
+Los proyectos realizados también se encuentran categorizados y pueden ser revisados en los siguientes enlaces:
 
-A continuación, una muestra de los proyectos realizados según el avance curricular:
+[Proyectos de programación](./portfolio/programming.html)<br>
+[Proyectos de modelamiento](./portfolio/modelling.html)<br>
+[Proyectos de redacción](./portfolio/writtings.html)<br>
+[Proyectos de ingeniería estructural](./portfolio/structuraleng.html)
+
+[Futuras entradas](./future_projects.html)
+
+A continuación, los proyectos más destacados:
 
 ***
+
+# Pandaligonal
+### Aplicación de Escritorio
+> Realizado en colaboración con **JPI Ingeniería e Innovación S.A.C.** como proyecto final del curso **Desarrollando Herramientas GUI en Python**.
+> 
+> [Link JPI - Herramientas GUI](https://jpi-ingenieria.com/herramientas_gui.html)
+
+Es una aplicación de escritorio que permite el procesamiento de datos de un levantamiento topográfico realizado por el método de radiación y devuelve las coordenadas finales de los puntos como respuesta, entre otros archivos útiles como un reporte en formato .xlsx y un archivo .scr para el trazo en softwares CAD.
+
+Programada en lenguaje Python, hace uso de programación orientada a objetos y uso de bibliotecas GUI como PyQt5 y PySide2.
+### Partes del programa
+
+![img1](/assets/img/pandaligonal-parts.jpg)
+
+### Reporte
+
+![img2](/assets/img/report.jpg)
+
+* * *
 
 # Ferrocarril Central Trasandino
 ### Informe de investigación
@@ -34,7 +61,7 @@ Uno de los primeros trabajos monográficos realizados en la carrera, realizado b
 
 [Ver archivo PDF](/assets/files/Ferrocarril-DLC-PB-RC.pdf)
 
-***
+* * *
 
 # Gran Terremoto del Este de Japón 2011
 ### Informe de investigación
@@ -53,7 +80,7 @@ Trabajo de investigación formativo sobre el gran terremoto del este de Japón o
 
 [Ver archivo PDF](/assets/files/Tohoku-Fabian-Rosales.pdf)
 
-***
+* * *
 
 # Línea 1 del Metro de Lima
 ### Infografía IGA's Tramitados
@@ -73,4 +100,24 @@ Ilustración visual de los distintos Instrumentos de Gestión Ambiental (IGA) tr
 
 [Ver archivo PDF](/assets/files/L1-Infografia.pdf)
 
-***
+* * *
+
+# Análisis Modal Espectral
+### Hoja de Cálculo MathCad
+
+> Realizado como parte del curso **Ingeniería Sismorresistente y Prevención de Desastres** durante el octavo ciclo en la facultad de Ingeniería Civil de la **Universidad Nacional de Ingeniería**.
+
+Material de soporte elaborado de forma individual para agilizar los cálculos requeridos en el proyecto escalonado del curso. Abarca el análisis modal y verificación de distorsiones de una edificación de 6 pisos. Estructura la cual tuvo que ser reforzada para cumplir con los requerimientos de la norma E.030 Diseño Sismorresistente; motivo por el cual se realizó un cálculo para la estructura en un sistema aporticado y otro cálculo para la estructura con los muros de concreto implementados para incrementar la rigidez. Para la elaboración de estas hojas de cálculo se empleó el software PTC Mathcad y sus distintas capacidades, como las funciones, gráficas y cálculos matriciales; además de la implementación de programación cuando era requerida.
+### Cálculo de modos de vibración
+![img1](/assets/img/img_sismo_1.jpg)
+### Verificación con E.030 Diseño Sismorresistente
+![img1](/assets/img/img_sismo_2.jpg)
+<br>
+[Descargar ejemplo 1 (.mcdx)](/assets/files/Analisis-Modal-Aporticado.mcdx) <br>
+[Ver archivo PDF](/assets/files/Analisis_Modal_Aporticado.pdf) <br>
+[Descargar ejemplo 2 (.mcdx)](/assets/files/Analisis-Modal-Muros.mcdx) <br>
+[Ver archivo PDF](/assets/files/Analisis_Modal_Muros.pdf)
+
+* * *
+
+

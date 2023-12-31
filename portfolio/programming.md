@@ -7,7 +7,7 @@ layout: default
 
 ***
 
-[Regresar al portafolio](./index.html) 
+[Regresar al portafolio](../portfolio.html)
 
 En este apartado se muestran diversos proyectos elaborados en lenguajes de programación. Se encuentran proyectos principalmente realizados en lenguaje Python debido al gran potencial que presenta gracias a las librerías. De ser posible, se brinda directamente el código para su revisión.
 
@@ -32,6 +32,6 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 
 ![img2](/assets/img/report.jpg)
 
-* * *
+***
 
 

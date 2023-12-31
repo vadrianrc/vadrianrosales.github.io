@@ -3,13 +3,13 @@ layout: default
 ---
 
 <center><span style="font-size: 40px; color: #000080;"><b>PORTAFOLIO</b></span></center>
-<center><span style="font-size: 20px;"><b>MODELAMIENTO</b></span></center><br>
+<center><span style="font-size: 20px;"><b>INGENIERÍA ESTRUCTURAL</b></span></center><br>
 
 ***
 
 [Regresar al portafolio](../portfolio.html)
 
-Se presentan algunos proyectos relacionados a la capacidad de modelar infraestructura, tanto con fines de análisis, como con fines arquitectónicos y/o didácticos. En estos incisos se recalca el empleo de diversos softwares como ETABS, Revit y SketchUp.
+Se presentan algunos proyectos relacionados a la rama de la ingeniería estructural.
 
 A continuación, una muestra de los proyectos realizados:
 
