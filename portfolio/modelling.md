@@ -9,27 +9,27 @@ layout: default
 
 [Regresar al portafolio](../portfolio.html)
 
-Se presentan algunos proyectos relacionados a la capacidad de modelar infraestructura, tanto con fines de análisis, como con fines arquitectónicos y/o didácticos. En estos incisos se recalca el empleo de diversos softwares como ETABS, Revit y SketchUp.
+Se presentan algunos proyectos relacionados a la capacidad de modelar infraestructura, tanto con fines de análisis, como con fines arquitectónicos y/o didácticos. En estos incisos se recalca el empleo de diversos softwares como ETABS, Revit y SketchUp. Al final de cada entrada se encuentra el archivo de descarga referente.
 
 A continuación, una muestra de los proyectos realizados:
 
 ***
 
-# Análisis Modal Espectral
-### Hoja de Cálculo MathCad
+# Reservorio apoyado Sedapal
+### Modelo tridimensional SketchUp
 
-> Realizado como parte del curso **Ingeniería Sismorresistente y Prevención de Desastres** durante el octavo ciclo en la facultad de Ingeniería Civil de la **Universidad Nacional de Ingeniería**.
+> Realizado como parte del curso **Tecnología de la Construcción I** durante el cuarto ciclo en la facultad de Ingeniería Civil de la **Universidad Nacional de Ingeniería**.
 
-Material de soporte elaborado de forma individual para agilizar los cálculos requeridos en el proyecto escalonado del curso. Abarca el análisis modal y verificación de distorsiones de una edificación de 6 pisos. Estructura la cual tuvo que ser reforzada para cumplir con los requerimientos de la norma E.030 Diseño Sismorresistente; motivo por el cual se realizó un cálculo para la estructura en un sistema aporticado y otro cálculo para la estructura con los muros de concreto implementados para incrementar la rigidez. Para la elaboración de estas hojas de cálculo se empleó el software PTC Mathcad y sus distintas capacidades, como las funciones, gráficas y cálculos matriciales; además de la implementación de programación cuando era requerida.
-### Cálculo de modos de vibración
-![img1](/assets/img/img_sismo_1.jpg)
-### Verificación con E.030 Diseño Sismorresistente
-![img1](/assets/img/img_sismo_2.jpg)
+Elaborado como material didáctico para representar el proceso constructivo de un reservorio apoyado. Esta infraestructura pertenece a un proyecto de ampliación del servicio de agua potable y alcantarillado en las nuevas habilitaciones Sargento Lores, ubicadas en el distrito de San Juan de Lurigancho en Lima. El reservorio cuenta con una capacidad de 150 m3. El modelamiento se realizó en el software SketchUp a partir de los planos de arquitectura e instalaciones hidráulicas que fueron extraídos del expediente. En este proyecto se aprendió el manejo del software, así como se empezó a desarrollar un flujo de trabajo que mejore la eficiencia y orden al modelar en esta plataforma.
+
+### Vista principal
+![img1](./assets/frontal.jpg)
+### Vista superior
+![img1](./assets/superior.jpg)
+### Tuberías modeladas
+![img1](./assets/tuberias.jpg)
 <br>
-[Descargar ejemplo 1 (.mcdx)](/assets/files/Analisis-Modal-Aporticado.mcdx) <br>
-[Ver archivo PDF](/assets/files/Analisis_Modal_Aporticado.pdf) <br>
-[Descargar ejemplo 2 (.mcdx)](/assets/files/Analisis-Modal-Muros.mcdx) <br>
-[Ver archivo PDF](/assets/files/Analisis_Modal_Muros.pdf)
+[Descargar modelo (.skp)](./assets/Reservorio_Apoyado_Proyectado.skp)
 
 ***
 
