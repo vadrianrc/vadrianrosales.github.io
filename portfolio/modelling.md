@@ -28,7 +28,7 @@ Elaborado como material didáctico para representar el proceso constructivo de u
 ![img1](./assets/superior.jpg)
 ### Tuberías modeladas
 ![img1](./assets/tuberias.jpg)
-<br>
+<br> chane
 [Descargar modelo (.skp)](https://drive.google.com/file/d/16c-r-oJR_xGFfoNYZFURUkzzAMC0BUdY/view?usp=sharing)
 
 ***
