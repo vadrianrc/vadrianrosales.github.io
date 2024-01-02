@@ -89,7 +89,7 @@ En busca de practicar los temas del curso de Análisis Estructural II, se realiz
 
 ![img1](/portfolio/assets/problema_portico.png)
 
-[Descargar código (.py)](/portfolio/assets/porticos_poo.py)
+[Descargar código (.py)](/portfolio/assets/porticos_poof.py)
 
 ***
 
