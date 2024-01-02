@@ -33,4 +33,16 @@ Material de soporte elaborado de forma individual para agilizar los cálculos re
 
 ***
 
+# Pabellón E de I.E. Mariano Melgar
+### Reforzamiento de la Edificación
 
+> Realizado como parte del curso **Rehabilitación y Refuerzo de Estructuras** durante el noveno ciclo en la facultad de Ingeniería Civil de la **Universidad Nacional de Ingeniería**.
+
+Proyecto integrador del curso en el que se aplicaron diversos conocimientos de la rama aprendidos durante la estancia de la universidad. La edificación reforzada es un pabellón de aulas de tres pisos perteneciente a la I.E. Mariano Melgar, ubicada en Breña, Lima. Tras una evaluación preliminar empleando el método de Hirosawa, se realiza el análisis de la estructura en sus condiciones actuales. Los resultados arrojaron que esta no era capaz de soportar las demandas a las que era expuesto por su condición de edificación esencial. La estrategia de reforzamiento consiste en el aumento de la capacidad, control de rigidez y resane de fisuras presentes. Para ello se propone la construcción de nuevos muros de albañilería, también se propone el encamisado de vigas y columnas según los criterios aprendidos en la teoría. Realizadas las modificaciones planeadas, se verifica el comportamiento de la edificación. Finalmente, la estructura cumple todos los requerimientos propios del reglamento nacional.
+
+Se destaca el empleo de conocimientos en modelado en ETABS, modelado en SAP2000, análisis estructural manual, aplicación de concreto armado, creación de hojas de cálculo para facilitar los procedimientos y empleo de softwares de apoyo como programación Python, Octave y SPcolumn.
+
+### Esquema resumen
+![img1](/portfolio/assets/reforzamiento.jpg)
+
+***
