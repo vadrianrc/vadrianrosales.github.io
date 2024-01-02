@@ -53,7 +53,7 @@ Hace uso de librerías como:
 
 ### Código
 
-Se presenta una versión recortada. El archivo se puede descargar a continuación.
+Se presenta la parte introductoria del código debido a su extensión. El archivo se puede descargar a continuación.
 
 [Descargar código (.py)](/portfolio/assets/Countries_of_the_world.py)
 
