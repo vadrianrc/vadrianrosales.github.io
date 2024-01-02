@@ -47,9 +47,9 @@ Hace uso de librerías como:
 
 ### Reporte
 
-![img1](portfolio/assets/test1.jpg)
+![img1](/portfolio/assets/test1.jpg)
 
-[Ver archivo PDF](portfolio/assets/test1.pdf)
+[Ver archivo PDF](/portfolio/assets/test1.pdf)
 
 ### Código
 
