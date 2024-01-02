@@ -33,4 +33,15 @@ Elaborado como material didáctico para representar el proceso constructivo de u
 
 ***
 
+# Multifamiliar Surinam
+### Modelo Revit
 
+> Realizado en colaboración con **ITCAD S.A.C.** como proyecto parcial del curso **Especialista Modelador BIM**.
+
+El proyecto consiste del modelamiendo en Revit de una vivienda multifamiliar de tres pisos con azotea; además de su entorno inmediato cercano. La edificación presenta balcones, portones, diversos tipos de componentes y se consideró la instalación de luminaria. Los productos del proyecto son los planos bidimensionales y tridimensionales por piso, los renders tanto interiores como exteriores, detalles arquitectónicos, cortes, elevaciones, secciones y el plano topográfico.
+
+Se presentan algunos resultados notables, el proyecto en formato .rvt y todos los productos se pueden descargar en el siguiente enlace (Proyecto .rvt en versión Revit 2020):<br>
+[Ver carpeta (.rvt, .jpg)](https://drive.google.com/drive/folders/1rH_0IwmOkdI-KDun5dzX1BPnxsBkF61J?usp=sharing)
+
+### Renders
+![img1](./assets/renders.jpg)
