@@ -3,24 +3,17 @@ layout: default
 ---
 
 <center><span style="font-size: 40px; color: #000080;"><b>PORTAFOLIO</b></span></center>
-<center><span style="font-size: 20px;"><b>PROYECTOS DESTACADOS</b></span></center><br>
+<center><span style="font-size: 20px;"><b>PROYECTOS ACADÉMICOS</b></span></center><br>
 
 ***
 
 [Regresar al inicio](./index.html) 
 
-En esta sección se encuentran alojados algunos de los proyectos más destacados realizados durante los semestres académicos en la Universidad Nacional de Ingeniería y por iniciativa propia. Se brinda una breve descripción de cada uno de ellos, así como se mencionan las competencias que fueron necesarias para la elaboración de estos. Al término de cada inciso, se puede encontrar el archivo para descargar el contenido, así como el contacto de los integrantes del equipo de trabajo, cuando aplique.
-
-Los proyectos realizados también se encuentran categorizados y pueden ser revisados en los siguientes enlaces:
-
-[Proyectos de programación](./portfolio/programming.html)<br>
-[Proyectos de modelamiento](./portfolio/modelling.html)<br>
-[Proyectos de redacción](./portfolio/writtings.html)<br>
-[Proyectos de ingeniería estructural](./portfolio/structuraleng.html)
+En esta sección se encuentran alojados algunos de los proyectos realizados durante los semestres académicos en la Universidad Nacional de Ingeniería. Se brinda una breve descripción de cada uno de ellos, así como se mencionan las competencias que fueron necesarias para la elaboración de estos. Al término de cada inciso, se puede encontrar el archivo para descargar el contenido, así como el contacto de los integrantes del equipo de trabajo, cuando aplique.
 
 [Futuras entradas](./future_projects.html)
 
-A continuación, los proyectos más destacados:
+A continuación, una muestra de los proyectos realizados:
 
 ***
 
@@ -43,6 +36,26 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 
 * * *
 
+# Ferrocarril Central Trasandino
+### Informe de investigación
+
+> Realizado de manera grupal colaborativa como proyecto final del curso **Redacción y Comunicación** durante el primer ciclo en la facultad de Ingeniería Civil de la **Universidad Nacional de Ingeniería**.
+
+Uno de los primeros trabajos monográficos realizados en la carrera, realizado bajo el marco del realce del bicentenario del nacimiento del ingeniero polaco Ernest Malinowski (1818-1899). Empleó como fuente bibliográfica principal el informe del ingeniero en jefe de la construcción del Ferrocarril Central Trasandino, escrito por el mismo ing. Malinowski; se apoya en el libro Malinowski El ingeniero de los ferrocarriles, escrito por el historiador José López Soria, publicación de la editorial EDUNI en la colección Bicentenario de la República.
+
+### Informe escrito por el ing. Malinowski
+![img1](/assets/img/ferr1.png)
+### Mural conmemorativo
+![img2](/assets/img/ferr2.png)
+
+> Compañeros de investigación: <br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**christian.delacruz.a@uni.pe**<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**edison.paredes.b@uni.pe**
+
+[Ver archivo PDF](/assets/files/Ferrocarril-DLC-PB-RC.pdf)
+
+* * *
+
 # Gran Terremoto del Este de Japón 2011
 ### Informe de investigación
 
@@ -59,6 +72,26 @@ Trabajo de investigación formativo sobre el gran terremoto del este de Japón o
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**danira.fabian.m@uni.pe**
 
 [Ver archivo PDF](/assets/files/Tohoku-Fabian-Rosales.pdf)
+
+* * *
+
+# Línea 1 del Metro de Lima
+### Infografía IGA's Tramitados
+
+> Realizado como parte del curso **Evaluación de Impacto Ambiental** durante el séptimo ciclo en la facultad de Ingeniería Civil de la **Universidad Nacional de Ingeniería**.
+
+Ilustración visual de los distintos Instrumentos de Gestión Ambiental (IGA) tramitados durante la construcción del proyecto Línea 1 del Metro de Lima. Este material visual forma parte de un proyecto escalonado realizado durante todo el ciclo académico correspondiente, en el cual se realiza un trabajo recopilatorio de información y análisis sobre el proceso constructivo, aspectos sociales, aspectos ambientales, aspectos económicos y el desarrollo del proyecto en el tiempo refiríendonos a la Línea 1 del Metro de Lima en los dos tramos que la componen. Para el desarrollo del proyecto se emplearon diversas metodologías de trabajo en conjunto, como el uso de la plataforma Trello, Notion y Canva. Esta última resalta al ser el lienzo sobre el cual se elaboró la infografía en cuestión.
+
+### Video de la presentación
+<iframe src="https://drive.google.com/file/d/1JVPAJoGxBH6tSVPwmu5hBeJNe98sD7J2/preview" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
+
+> Compañeros de investigación: <br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**danira.fabian.m@uni.pe**<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ximena.cartolin.y@uni.pe**<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**christian.ruiz.c@uni.pe**<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**frank.ramirez.l@uni.pe**
+
+[Ver archivo PDF](/assets/files/L1-Infografia.pdf)
 
 * * *
 

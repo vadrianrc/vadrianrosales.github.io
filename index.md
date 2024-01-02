@@ -6,8 +6,7 @@ layout: default
 
 ***
 
-[Acceder a portafolio de proyectos](./portfolio.html)<br>
-[Actualización próxima](./portfolio2.html)
+[Acceder a portafolio de proyectos](./portfolio.html)
 
 
 Hola!, mi nombre es Victor Adrian Rosales Cutipa. Soy de Lima, Perú. Estudio Ingeniería Civil en la Universidad Nacional de Ingeniería y me encuentro en décimo ciclo relativo al término del presente semestre 2023-II.
