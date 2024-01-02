@@ -18,7 +18,7 @@ Los proyectos realizados también se encuentran categorizados y pueden ser revis
 [Proyectos de redacción](./portfolio/writtings.html)<br>
 [Proyectos de ingeniería estructural](./portfolio/structuraleng.html)
 
-[Futuras entradas](./future_projects.html)
+<!-- [Futuras entradas](./future_projects.html) -->
 
 A continuación, los proyectos más destacados:
 
