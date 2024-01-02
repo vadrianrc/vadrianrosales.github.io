@@ -48,3 +48,6 @@ Se presentan algunos resultados notables, el proyecto en formato .rvt y todos lo
 
 ### Vistas principales
 ![img1](./assets/vistas.jpg)
+
+### Detalle de enlucido
+![img1](./assets/detalle.jpg)
