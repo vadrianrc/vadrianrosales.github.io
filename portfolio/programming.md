@@ -80,3 +80,26 @@ for i in f_names:
 
 ***
 
+# Aspectos de Proyecto de Saneamiento
+### Jupyter Notebook
+
+> Realizado como parte del curso **Abastecimiento de Agua y Alcantarillado** durante el noveno ciclo en la facultad de Ingeniería Civil de la **Universidad Nacional de Ingeniería**.
+
+Como parte del primer avance del proyecto integral del curso, se realizó una página en la que se incluyen aspectos básicos para el diseño del sistema de abastecimiento de agua de la comunidad campesina Pusacpampa en la región Junín. Para esta tarea se decidió brindar distintos añadidos a las capacidad de Jupyter, por tal se emplearon librerías de Python para ejemplificar la locación de la comunidad e incluir diversos archivos. En la página es posible obtener diversos planos y hojas de cálculo empleadas para los diseños iniciales del proyecto. El desarrollo del proyecto general se realizó de manera grupal; sin embargo, la elaboración de la página fue realizada de forma individual en base a una repartición de labores.
+
+### Mapa interactivo
+
+![img1](/portfolio/assets/mapa.png)
+
+[Ver Jupyter Notebook](https://vadrianrc.github.io/G2-SA253J/)
+
+> Compañeros de investigación: <br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ruben.beltran.a@uni.pe**<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**jhon.acuna.e@uni.pe**<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**luis.reyes.a@uni.pe**
+
+***
+
+
+
+
