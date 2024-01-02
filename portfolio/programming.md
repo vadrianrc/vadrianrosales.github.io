@@ -80,6 +80,19 @@ for i in f_names:
 
 ***
 
+# Método de Rigideces para Pórticos
+### Script de Python
+
+En busca de practicar los temas del curso de Análisis Estructural II, se realizó un script de Python empleando Programación Orientada a Objetos para resolver pórticos con fuerzas puntuales. Posteriormente, esta idea fue llevada a lenguaje .hpprgm para ser empleado en calculadoras HP Prime, adecuando el script a las características del lenguaje. El archivo proporcionado a descargar se encuentra editado de manera que resuelve el problema siguiente, este obtiene las fuerzas internas de cada uno de los elementos presentes. El script emplea la librería NumPy para los cálculos correspondientes y propios del método de rigideces.
+
+### Problema que se resuelve como ejemplo
+
+![img1](/portfolio/assets/problema_portico.png)
+
+[Descargar código (.py)](/portfolio/assets/porticos_poo.py)
+
+***
+
 # Aspectos de Proyecto de Saneamiento
 ### Jupyter Notebook
 
@@ -99,6 +112,8 @@ Como parte del primer avance del proyecto integral del curso, se realizó una p�
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**luis.reyes.a@uni.pe**
 
 ***
+
+
 
 
 
