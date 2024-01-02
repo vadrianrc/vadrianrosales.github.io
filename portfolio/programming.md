@@ -35,7 +35,7 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 ***
 
 # Countries of the World
-### Reporte automatizado
+### Empleo de Python para reporte automatizado
 
 Proyecto de iniciativa propia para el empleo y práctica de distintas librerías. Se realizan diversos procedimientos como recopilación automatizada de información (Scraping), análisis de datos, ploteo de gráficas y generación de reporte en formato PDF. 
 
@@ -44,6 +44,12 @@ Hace uso de librerías como:
 * Pandas
 * Matplotlib
 * FPDF
+
+### Reporte
+
+![img1](portfolio/assets/test1.jpg)
+
+[Ver archivo PDF](portfolio/assets/test1.pdf)
 
 ### Código
 
