@@ -51,3 +51,5 @@ Se presentan algunos resultados notables, el proyecto en formato .rvt y todos lo
 
 ### Detalle de enlucido
 ![img1](./assets/detalle.jpg)
+
+***
