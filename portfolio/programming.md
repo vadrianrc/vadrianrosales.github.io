@@ -87,9 +87,9 @@ En busca de practicar los temas del curso de Análisis Estructural II, se realiz
 
 ### Problema que se resuelve como ejemplo
 
-![img1](/portfolio/assets/problema_portico.png)
+![img1](/portfolio/assets/problema_porticof.png)
 
-[Descargar código (.py)](/portfolio/assets/porticos_poof.py)
+[Descargar código (.py)](/portfolio/assets/porticos_poo.py)
 
 ***
 
