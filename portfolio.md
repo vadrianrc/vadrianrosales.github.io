@@ -43,6 +43,24 @@ Programada en lenguaje Python, hace uso de programación orientada a objetos y u
 
 * * *
 
+# Multifamiliar Surinam
+### Modelo Revit
+
+> Realizado en colaboración con **ITCAD S.A.C.** como proyecto parcial del curso **Especialista Modelador BIM**.
+
+El proyecto consiste del modelamiendo en Revit de una vivienda multifamiliar de tres pisos con azotea; además de su entorno inmediato cercano. La edificación presenta balcones, portones, diversos tipos de componentes y se consideró la instalación de luminaria. Los productos del proyecto son los planos bidimensionales y tridimensionales por piso, los renders tanto interiores como exteriores, detalles arquitectónicos, cortes, elevaciones, secciones y el plano topográfico.
+
+Se presentan algunos resultados notables; el proyecto en formato .rvt y todos los productos se pueden descargar en el siguiente enlace (Proyecto .rvt en versión Revit 2020):<br>
+[Ver carpeta (.rvt, .jpg)](https://drive.google.com/drive/folders/1rH_0IwmOkdI-KDun5dzX1BPnxsBkF61J?usp=sharing)
+
+### Renders
+![img1](/portfolio/assets/renders.jpg)
+
+### Vistas principales
+![img1](/portfolio/assets/vistas.jpg)
+
+***
+
 # Gran Terremoto del Este de Japón 2011
 ### Informe de investigación
 
@@ -61,24 +79,6 @@ Trabajo de investigación formativo sobre el gran terremoto del este de Japón o
 [Ver archivo PDF](/assets/files/Tohoku-Fabian-Rosales.pdf)
 
 * * *
-
-# Multifamiliar Surinam
-### Modelo Revit
-
-> Realizado en colaboración con **ITCAD S.A.C.** como proyecto parcial del curso **Especialista Modelador BIM**.
-
-El proyecto consiste del modelamiendo en Revit de una vivienda multifamiliar de tres pisos con azotea; además de su entorno inmediato cercano. La edificación presenta balcones, portones, diversos tipos de componentes y se consideró la instalación de luminaria. Los productos del proyecto son los planos bidimensionales y tridimensionales por piso, los renders tanto interiores como exteriores, detalles arquitectónicos, cortes, elevaciones, secciones y el plano topográfico.
-
-Se presentan algunos resultados notables; el proyecto en formato .rvt y todos los productos se pueden descargar en el siguiente enlace (Proyecto .rvt en versión Revit 2020):<br>
-[Ver carpeta (.rvt, .jpg)](https://drive.google.com/drive/folders/1rH_0IwmOkdI-KDun5dzX1BPnxsBkF61J?usp=sharing)
-
-### Renders
-![img1](/portfolio/assets/renders.jpg)
-
-### Vistas principales
-![img1](/portfolio/assets/vistas.jpg)
-
-***
 
 # Análisis Modal Espectral
 ### Hoja de Cálculo MathCad
