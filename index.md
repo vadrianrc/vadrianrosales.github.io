@@ -27,7 +27,7 @@ Soy un aficionado a la programación y he realizado diversos pequeños proyectos
 
 Manejo diversos softwares propios del análisis y diseño estructural como CSI SAP2000, CSI ETABS y CSI SAFE; así como entornos CAD y de modelamiento tridimensional, como AutoCAD, Civil 3D, Revit y SketchUp. También empleo plataformas propias del entorno Office como Word, Powerpoint, Excel e inclusive MS Project. Usualmente me apoyo en herramientas como Mathcad, Canva, Miro y Notion para el desarrollo de mis tareas y proyectos en la universidad.
 
-Actualmente me encuentro en busca de prácticas pre profesionales que me permitan poner en práctica los conocimientos adquiridos a lo largo de mi estancia en la universdad, y empezar una línea de carrera que permita involucrarme en grandes proyectos que apoyen al desarrollo del país.
+Actualmente me encuentro realizando prácticas pre profesionales en el Laboratorio N°1 de Ensayos de Materiales en la facultad de Ingeniería Civil de la Universidad Nacional de Ingeniería, en el área de jefatura. En mi función realizó labores ligadas a investigación, traducción, interpretación y control documentario. Paralelamente, aprovecho la formación recibida para plantear mis propios temas de investigación, buscando aplicar Machine Learning y abarcar el problema de la vulnerabilidad estructural.
 
 Lo invito a revisar mi portafolio de proyectos y a conectar en LinkedIn. Muchas gracias.
 
